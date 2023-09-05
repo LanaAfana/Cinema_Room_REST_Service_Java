@@ -10,9 +10,4 @@ import lombok.NoArgsConstructor;
 public class SeatNumber {
     protected int row;
     protected int column;
-
-//    public SeatNumber (int row, int column) {
-//        this.row = row;
-//        this.column = column;
-//    }
 }
